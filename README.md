@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning web development.
 - 📫 How to reach me ....
 - 😄 Pronouns: ...
-- ⚡ Fun fact: nothing is everything.
+- ⚡ Fun fact: everything is nothing.
 
 <!---
 wltt1004/wltt1004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
